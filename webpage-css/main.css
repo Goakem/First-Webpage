@@ -1,0 +1,11 @@
+*{
+    font-style: Roboto;
+    color: white;
+    display: flex;
+}
+
+.header-container{
+    display:flex;
+    justify-content: flex-start;
+    background-color: #1F2937;
+}
