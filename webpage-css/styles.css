@@ -84,4 +84,33 @@ img{
     height: 30px;
     border: #3882F6;
     border-radius: 10px;
+    margin-top: 10px;
+}
+
+h2{
+    color:#1f2937;
+    font-size: 36px;
+    font-weight: 900;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.image-and-text-collection{
+    display: flex;
+    flex-direction: row;
+    margin-left: 90px;
+    justify-content: space-evenly;
+}
+
+.blue-box{
+    border: 2px solid #3882F6;
+}
+
+.p-second{
+    text-align: center;
+}
+
+.second-section{
+    margin-bottom: 30px;
 }
