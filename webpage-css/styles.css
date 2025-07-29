@@ -136,3 +136,17 @@ div img{
     font-style: normal;
 }
   
+/*.blue-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}*/
+
+.fourth-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+    margin-left: 300px;
+    margin-top: 100px;
+}
